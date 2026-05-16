@@ -1,12 +1,11 @@
-# Top AI Directories
-
-This repository provides an organized collection of AI directories, ranked from high Domain Rating (DR) to low. Please submit your directory to [thenextaidirectory.com](https://thenextaidirectory.com) to get listed here.
-
 ---
+
 
 Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
+
 ---
+
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
@@ -48,7 +47,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [All Things AI](https://thenextaidirectory.com/go/all-things-ai) | 44 | The curated resource of AI tools |
 | [God of Prompt](https://thenextaidirectory.com/go/god-of-prompt) | 44 | Discover 1000+ best AI tools |
 | [AI Tool Trek](https://thenextaidirectory.com/go/ai-tool-trek) | 43 | Curated list of latest AI tools & AI news |
-| [Appscribed](https://thenextaidirectory.com/go/appscribed) | 43 | Find the best AI tools for your needs, all in one place |
+| [Appscribed](https://thenextaidirectory.com/go/appscribed) | 43 | AI tools directory and submission platform for discovering and listing AI software |
 | [Good AI Tools](https://thenextaidirectory.com/go/good-ai-tools) | 43 | Discover the best AI tools to boost your productivity |
 | [AI Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory-2) | 42 | Curated list of AI tools |
 | [Based Tools](https://thenextaidirectory.com/go/based-tools) | 42 | The most based AI directory |
@@ -75,82 +74,3 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [OpenFuture AI](https://thenextaidirectory.com/go/openfuture-ai) | 30 | All AI tools in one place |
 | [Productivity Directory](https://thenextaidirectory.com/go/productivity-directory) | 30 | A curated productivity directory |
 | [StackMention](https://thenextaidirectory.com/go/stackmention) | 30 | A simple place for startups to list their tools and reach more users |
-| [AI Parabellum](https://thenextaidirectory.com/go/ai-parabellum) | 29 | Top AI tools to boost productivity and enhance skills |
-| [AI Toolz Dir](https://thenextaidirectory.com/go/ai-toolz-dir) | 29 | Handpicked AI tools that save you time & money |
-| [Sidehunt](https://thenextaidirectory.com/go/sidehunt) | 29 | Sidehunt is where side projects and indie launches go live each week and get real votes |
-| [Free AI Tool](https://thenextaidirectory.com/go/free-ai-tool) | 28 | List of best & latest free AI tools |
-| [AI For Developers](https://thenextaidirectory.com/go/ai-for-developers) | 26 | A curated list of AI-powered coding tools |
-| [Makerlist.io](https://thenextaidirectory.com/go/makerlist-io) | 26 | Discover the internets best tools |
-| [AI Affiliate Programs](https://thenextaidirectory.com/go/ai-affiliate-programs) | 25 | A comprehensive directory of 120+ AI affiliate programs across multiple categories |
-| [AI Explorer](https://thenextaidirectory.com/go/ai-explorer) | 23 | Curated tools and insights to elevate your AI-driven projects |
-| [SaaSBaba](https://thenextaidirectory.com/go/saasbaba) | 23 | Find the best AI tools & deals |
-| [AI Depot](https://thenextaidirectory.com/go/ai-depot) | 22 | Discover the best new AI tools |
-| [AI Pedia Hub](https://thenextaidirectory.com/go/ai-pedia-hub) | 22 | Discover what AI can do for you |
-| [Top Tools](https://thenextaidirectory.com/go/top-tools) | 22 | AI tools directory |
-| [Ask AI For It](https://thenextaidirectory.com/go/ask-ai-for-it) | 21 | Save time, reduce costs, boost productivity with SaaS and AI tools |
-| [SEOFAI](https://thenextaidirectory.com/go/seofai) | 21 | Your gateway to AI tools & updates |
-| [AI Trendz](https://thenextaidirectory.com/go/ai-trendz) | 20 | Find AI tools that will change your life |
-| [AI Tools List](https://thenextaidirectory.com/go/ai-tools-list) | 19 | Best AI tools rated |
-| [PoweredbyAI](https://thenextaidirectory.com/go/poweredbyai) | 19 | 1700+ AI tools listed |
-| [AI Tools Arena](https://thenextaidirectory.com/go/ai-tools-arena) | 15 | Your ultimate resource for AI tools and insights |
-| [AIBlog.Tools](https://thenextaidirectory.com/go/aiblog-tools) | 15 | Finding the best AI blog tools to supercharge your blogging workflow |
-| [AI Film Tools](https://thenextaidirectory.com/go/ai-film-tools) | 14 | Best AI tools for filmmaking |
-| [Ainave](https://thenextaidirectory.com/go/ainave) | 14 | Navigate the world of AI with ease |
-| [Startup AI Tools](https://thenextaidirectory.com/go/startup-ai-tools) | 14 | Largest AI tools directory with new AI tools list updated daily |
-| [ToolsAI](https://thenextaidirectory.com/go/toolsai) | 14 | Best AI tools directory |
-| [ToolsPedia AI](https://thenextaidirectory.com/go/toolspedia-ai) | 14 | The world's best & largest AI tools directory |
-| [Awesome Tools](https://thenextaidirectory.com/go/awesome-tools) | 13 | The most awesome tools of the internet! |
-| [RankmyAI](https://thenextaidirectory.com/go/rankmyai) | 13 | The world’s largest index and ranking of AI tools |
-| [Rilna](https://thenextaidirectory.com/go/rilna) | 13 | The software listing platform for SME and Independent |
-| [AI Launch Space](https://thenextaidirectory.com/go/ai-launch-space) | 12 | AI Launch Space is the ultimate launchpad for creators building AI tools |
-| [There's An AI](https://thenextaidirectory.com/go/theres-an-ai) | 12 | A curated collection of top AI tools |
-| [AI Tools Guide](https://thenextaidirectory.com/go/ai-tools-guide) | 11 | We've reviewed the best AI tools on the market |
-| [AI Image and Video Generators](https://thenextaidirectory.com/go/ai-image-and-video-generators) | 10 | Discover top AI visual tools |
-| [AI Pulse](https://thenextaidirectory.com/go/ai-pulse) | 10 | Your trusted source for in-depth reviews of the latest AI tools and technologies |
-| [BestTools](https://thenextaidirectory.com/go/besttools) | 10 | The best website to find the best AI tools |
-| [Best AI Tools](https://thenextaidirectory.com/go/best-ai-tools) | 9 | Find the best AI tools & solutions |
-| [Expify AI](https://thenextaidirectory.com/go/expify-ai) | 9 | The ultimate AI tools directory |
-| [Mad Genius](https://thenextaidirectory.com/go/mad-genius) | 9 | AI tools that will boost your workflow and save you time and money |
-| [Rise Of Machine](https://thenextaidirectory.com/go/rise-of-machine) | 9 | Discover AI tools curated for makers and SMBs |
-| [Somi.ai](https://thenextaidirectory.com/go/somi-ai) | 9 | Discover AI tools & hacks for AI entrepreneurs |
-| [AI Tool Board](https://thenextaidirectory.com/go/ai-tool-board) | 8 | Browse the best AI tools |
-| [NavTo.AI](https://thenextaidirectory.com/go/navto-ai) | 8 | AI tool discovery platform |
-| [NextGenTools](https://thenextaidirectory.com/go/nextgentools) | 8 | Supercharge your productivity with these advanced tools |
-| [Stackviv AI](https://thenextaidirectory.com/go/stackviv-ai) | 8 | Generative AI tools directory  |
-| [AI Testing Tools](https://thenextaidirectory.com/go/ai-testing-tools) | 7 | Your one-stop destination for AI-powered tools for software testing, test automation, etc. |
-| [Free AI Apps](https://thenextaidirectory.com/go/free-ai-apps) | 7 | Discover the best free AI apps |
-| [BigKr](https://thenextaidirectory.com/go/bigkr) | 6 | Find and discover AI image generators, video creation tools, productivity apps and SaaS solutions |
-| [AIlistingtool](https://thenextaidirectory.com/go/ailistingtool) | 5 | Discover AI tools that transform your work |
-| [Aifyles](https://thenextaidirectory.com/go/aifyles) | 5 | Explore top AI tools |
-| [Future AGI Tools](https://thenextaidirectory.com/go/future-agi-tools) | 5 | Find the best AI tools |
-| [AI Directory Wiki](https://thenextaidirectory.com/go/ai-directory-wiki) | 4 | Yet another AI Directory |
-| [AI Hustle](https://thenextaidirectory.com/go/ai-hustle) | 4 | All the best AI tools in one place |
-| [AIDir.wiki](https://thenextaidirectory.com/go/aidir-wiki) | 4 | First AI directory, since 2022 |
-| [All The AI Tools](https://thenextaidirectory.com/go/all-the-ai-tools) | 4 | Explore the largest collection of AI tools |
-| [Dynamite AI](https://thenextaidirectory.com/go/dynamite-ai) | 4 | Find the best AI tools for your needs |
-| [AI-Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory) | 3 | A directory of AI tools curated by AI itself |
-| [Tools.so](https://thenextaidirectory.com/go/tools-so) | 3 | Growing directory of the best AI tools on the internet |
-| [AI SEO List](https://thenextaidirectory.com/go/ai-seo-list) | 2 | Discover the best AI tools for SEO |
-| [AiMatch.pro](https://thenextaidirectory.com/go/aimatch-pro) | 2 | Find the right AI tool for you or show your AI tool to the world |
-| [AiSoftO](https://thenextaidirectory.com/go/aisofto) | 2 | Discover AI websites & tools |
-| [Tail Daily](https://thenextaidirectory.com/go/tail-daily) | 2 | Top AI resources listed daily with helpful resources and tips to identify the tools you need |
-| [AI Detectors](https://thenextaidirectory.com/go/ai-detectors) | 1 | Find the AI detector that best suits your needs |
-| [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 1 | Discover tools to supercharge your AI journey |
-| [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 1 | Find the best AI tools & increase your productivity by 10x |
-| [Evolmagazine](https://thenextaidirectory.com/go/evolmagazine) | 1 | Find, compare, and integrate the best AI and productivity tools |
-| [NeonRev](https://thenextaidirectory.com/go/neonrev) | 1 | Best AI tools at your fingertips |
-| [Tools Roller](https://thenextaidirectory.com/go/tools-roller) | 1 | Discover the best AI tools for your business |
-| [AI Simplify Directory](https://thenextaidirectory.com/go/ai-simplify-directory) | 0 | A directory of AI tools, tutorials, and news |
-| [AI Daily Hacks](https://thenextaidirectory.com/go/ai-daily-hacks) | 0 | Discover new AI tools everyday |
-| [AI Tool Finder](https://thenextaidirectory.com/go/ai-tool-finder) | 0 | Discover and compare thousands of AI tools to find the perfect solution for any task! |
-| [Aixyz](https://thenextaidirectory.com/go/aixyz) | 0 | Discover the best AI tools in one place |
-| [All AI Tools](https://thenextaidirectory.com/go/all-ai-tools) | 0 | Best AI tools at one place |
-| [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
-| [Best of AI](https://thenextaidirectory.com/go/best-of-ai) | 0 | A list of best of AI tools |
-| [Beyond The AI](https://thenextaidirectory.com/go/beyond-the-ai) | 0 | Discover AI tools with AI-powered search |
-| [Buzz Ai Directory](https://thenextaidirectory.com/go/buzz-ai-directory) | 0 | Find the perfect AI tool for your needs |
-| [Directories Wiki](https://thenextaidirectory.com/go/directories-wiki) | 0 | Your ultimate directory finder, providing a curated list of any type of directories on the web |
-| [FindToolz](https://thenextaidirectory.com/go/findtoolz) | 0 | Find the right AI tool fast |
-| [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
-| [Tools Hub AI](https://thenextaidirectory.com/go/tools-hub-ai) | 0 | Top AI tools for images, video and code |
-| [Twivv](https://thenextaidirectory.com/go/twivv) | 0 | AI news, reviews and tool directory |
